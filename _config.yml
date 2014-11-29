@@ -15,17 +15,18 @@ defaults:
 
 description: Love me less，but love me for a long.——The Lover's Dictionary
 # gavatar头像及Favicon
-gavatar: http://pic.yupoo.com/azeril/Ef3mi84v/medish.jpg
-favicon: http://pic.yupoo.com/azeril/Ef3mi84v/medish.jpg
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: http://dreamofbook.qiniudn.com/Az..png
 
-author:
+author: Azeril
   name: Azeril
   email: azeril@live.cn
   github: Azeril
+  douban: Azeril
+  Goodreads: Azeril
   twitter: Azeril_Lapland
-  pinterest: Azeril
-  Douban: Azeril 
-  bio: 明朝即長路 惜取此時心
+  pinterest: Azeril_Lapland
+  bio: Azeril
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
