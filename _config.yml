@@ -33,8 +33,4 @@ author:
 duoshuo_name: lapland.duoshuo.com
 duoshuo_show_comment_count: true
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
 BASE_PATH:
