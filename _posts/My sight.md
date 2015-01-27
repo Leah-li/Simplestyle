@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 佩索阿：A Dream With A Dream 
+title: A Dream With A Dream 
 categories: [ ]
 tags: [poem, love, ]
 description: When I miss you,I image the time with you
