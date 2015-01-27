@@ -1,1 +1,16 @@
+---
+layout: post
+title: 佩索阿：A Dream With A Dream 
+categories: [ ]
+tags: [poem, love, ]
+description: When I miss you,I image the time with you
+---
+
+
+
 A dream with a dream
+每一天都有一个晚安的期待
+每一声都有回应的温柔
+想你 在疲倦的午后 
+想你 在清晨的微醺的光中
+在深夜 闪亮的记忆
