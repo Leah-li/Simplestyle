@@ -8,6 +8,9 @@
 	{% endif %}
 	<meta name="author" content="{{ site.author.name }}">
 
+	<!-- Enable responsive viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,10 +21,10 @@
 	<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
 	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
-	
+
 	<!-- Le fav and touch icons -->
 	<!-- Update these with your own images
-	<link rel="shortcut icon" href="images/http://dreamofbook.qiniudn.com/favicon.png">
+	<link rel="shortcut icon" href="images/favicon.ico">
 	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
@@ -56,7 +59,7 @@
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="http://dreamofbook.qiniudn.com/Az..png" class="img-circle" />
+				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
 				{{ site.title }}
 			</a>
 		</div>
@@ -95,7 +98,7 @@
 		<footer>
 			<hr/>
 			<p>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} All rights reserved. Power by Jekyll. Theme: <a href="https://github.com/dbtek/dbyll">dbyll</a> by dbtek.
+				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with Jekyll. Theme: <a href="https://github.com/dbtek/dbyll">dbyll</a> by dbtek.
 			</p>
 		</footer>
 	</div>
