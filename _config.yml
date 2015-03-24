@@ -21,7 +21,7 @@ description: Love me less，but love me for a long.——The Lover's Dictionary
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: http://dreamofbook.qiniudn.com/favicon.png
 
-author: Azeril
+author: 
   name: Azeril
   email: azeril@live.cn
   github: Azeril
@@ -31,5 +31,9 @@ author: Azeril
   pinterest: Azeril_Lapland
   bio: 明朝即長路 惜取此時心
   email_md5: 7a3f53fc97562e5a42cffc4d8e0f3bbc
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
 
 BASE_PATH:
