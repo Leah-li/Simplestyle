@@ -6,7 +6,6 @@ tags: [poem,]
 description: Is all that we see or seem / But a dream within a dream
 ---
 
-just a test:doubanclaime397fdf0b9e7e289
 
     Take this kiss upon the brow!
     And, in parting from you now,
