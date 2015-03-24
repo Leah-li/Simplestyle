@@ -10,8 +10,10 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      
-title: 微尘
+      title: 微尘
+
+title: 微尘 
+
 url: http://azeril.me  
 description: Love me less，but love me for a long.——The Lover's Dictionary
 
