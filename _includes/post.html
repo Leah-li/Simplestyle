@@ -73,22 +73,23 @@
 
 		<div>
 
+-      <section class="share col-sm-6">
+-        <h4 class="section-title">Share Post</h4>
+-        <a class="btn btn-default btn-sm twitter" href="http://twitter.com/share?text={{page.title | encode}}{% if site.author.twitter%}&via={{site.author.twitter}}{% endif %}"
+-           onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+-          <i class="fa fa-twitter fa-lg"></i>
+-          Twitter
+-        </a>
+-        <a class="btn btn-default btn-sm facebook" href="https://www.facebook.com/sharer/sharer.php"
+-           onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+-          <i class="fa fa-facebook fa-lg"></i>
+-          Facebook
+-        </a>
+-        <a href="javascript:void(function(){var d=document,e=encodeURIComponent,s1=window.getSelection,s2=d.getSelection,s3=d.selection,s=s1?s1():s2?s2():s3?s3.createRange().text:'',r='http://www.douban.com/recommend/?url='+e(d.location.href)+'&title='+e(d.title)+'&sel='+e(s)+'&v=1',w=450,h=330,x=function(){if(!window.open(r,'douban','toolbar=0,resizable=1,scrollbars=yes,status=1,width='+w+',height='+h+',left='+(screen.width-w)/2+',top='+(screen.height-h)/2))location.href=r+'&r=1'};if(/Firefox/.test(navigator.userAgent)){setTimeout(x,0)}else{x()}})()"><img 
+            src="http://img2.douban.com/pics/fw2douban_s.png" alt="推荐到豆瓣" />
+         </a>
 
-<!-- JiaThis Button BEGIN -->
-<div class="jiathis_style_32x32">
-	<a class="jiathis_button_douban"></a>
-	<a class="jiathis_button_fb"></a>
-	<a class="jiathis_button_weixin"></a>
-	<a class="jiathis_button_evernote"></a>
-	<a class="jiathis_button_twitter"></a>
-	<a href="http://www.jiathis.com/share?uid=2016781" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-	<a class="jiathis_counter_style"></a>
-</div>
-<script type="text/javascript">
-var jiathis_config = {data_track_clickback:'true'};
-</script>
-<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1427099803250910" charset="utf-8"></script>
-<!-- JiaThis Button END -->
+-      </section>
 
       <section class="col-sm-6 author">
         <img src="http://www.gravatar.com/avatar/{{site.author.email_md6}}" class="img-rounded author-image" />
