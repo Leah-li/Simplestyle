@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 初次尝试：GIF动画
+title: 初次尝试：GIF 动画
 categories: [blog ]
 tags: [Star,]
 description: Just try it，try it again
