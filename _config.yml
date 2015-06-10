@@ -12,24 +12,24 @@ defaults:
     values:
       title: 微尘
 
-title: 微尘 
+title: Leah's Swing Dance  
 
-url: http://azeril.me  
-description: Love me less，but love me for a long.——The Lover's Dictionary
+url: http://leah.github.io 
+description: 你是万事万物，我却像想家一样想你。——鲁米
 
 # gavatar头像及Favicon
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: http://dreamofbook.qiniudn.com/favicon.png
 
 author: 
-  name: Azeril
-  email: azeril@live.cn
-  github: Azeril
-  douban: Azeril
-  Goodreads: Azeril
-  twitter: Azeril_Lapland
-  pinterest: Azeril_Lapland
-  bio: 明朝即長路 惜取此時心
+  name: Leah
+  email: nankailiyi@live.cn
+  github: Leah-Li
+  douban:  暖炉
+  Goodreads: 
+  twitter: 
+  pinterest: 
+  bio: 惜取此時心
   email_md5: 7a3f53fc97562e5a42cffc4d8e0f3bbc
 
 rss_path: feed.xml
